@@ -1,0 +1,12 @@
+{
+  "name": "expo-sound-bug",
+  "displayName": "expo-sound-bug",
+  "expo": {
+    "name": "expo-sound-bug",
+    "slug": "expo-sound-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
